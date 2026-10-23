@@ -1,0 +1,5 @@
+최신 업로드 소스 기반 GitHub Pages 수정본
+수정: Vite @ alias 명시, src/lib/utils.ts 포함.
+전체 파일/폴더를 GitHub Desktop의 저장소 폴더로 복사하세요. src 폴더 내부 파일을 밖으로 꺼내지 마세요. .git은 건드리지 마세요.
+Commit to main 후 Push origin. GitHub Pages Source는 GitHub Actions.
+실제 의존성 설치·프로덕션 빌드는 여기서 실행하지 않았으므로 성공 보증본은 아닙니다. 첫 Actions 실행에서 확인해야 합니다.
